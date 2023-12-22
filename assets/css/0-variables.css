@@ -3,7 +3,6 @@
 :root {
   --hr-height: 1.5rem;
   --archive-indent: 3.5rem;
-  --black: #111;
   --dark-gray: #777;
   --light-gray: #ccc;
   --white: #FFF;
@@ -18,7 +17,6 @@
 }
 
 body.night {
-  --black: #e6e6e6;
   --dark-gray: #999;
   --gray: #aaa;
   --light-gray: #555;

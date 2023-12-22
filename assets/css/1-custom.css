@@ -197,7 +197,8 @@ body.night .post-body p del {
   margin-bottom: 1rem;
 } */
 
-.post-body details summary:not(.fediverse-status-cw__label),
+/* https://stackoverflow.com/a/22183475 */
+.post-body details summary:not([class]),
 .post-body details .fold__details {
   background: rgba(3,123,186,7%);
   padding-left: var(--page-margin);
@@ -333,11 +334,11 @@ body.night .post-body .table-hover tbody tr:hover {
 
 .post-body blockquote,
 .post-body blockquote *:not(a):not(code) {
-  color: var(--black);
+  color: var(--color-text);
 }
 
 body.night blockquote *:not(a) {
-  color: var(--black) !important;
+  color: var(--color-text) !important;
 }
 
 body.night blockquote a * {
@@ -528,4 +529,18 @@ body.night h2.archive--year:first-of-type {
 
 .cp_embed_wrapper {
   margin-bottom: 1rem;
+}
+
+/* **************** gist fix **************** */
+
+/* the last remainder of my blogger css */
+/* https://gist.github.com/loikein/7b2a4f7d98d366a732dafd755b5248ff */
+.gist table,
+.gist table tr th,
+.gist table tr td{
+  border: 0px;
+}
+
+.gist tbody tr:nth-of-type(odd) {
+  background-color: unset;
 }

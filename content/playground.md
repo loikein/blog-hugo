@@ -214,27 +214,25 @@ Usage:
 {{</* preview "https://blog.ypertex.com/articles/useful-hugo-templating/" */>}}
 ```
 
-### Fediverse status
+### Fediverse post
+
+Currently only supports Mastodon, because I do not have accounts on other types of servers.
 
 No content warning (CW):
 
 {{< mstdn mastodon.social 106070125652504343 >}}
 
-Long CW + short main text:
-
-{{< mstdn "mastodon.social" "106354551109008813" >}}
-
-Short CW + long main text:
+Has CW:
 
 {{< mstdn "mastodon.social" "106353678279784184" >}}
 
-Usage: \(Everything is done automatically, no need for other variables\)
+Usage:
 
 ```html
 {{</* mstdn mastodon.social 106070125652504343 */>}}
 ```
 
-### Tweet refined
+### Twitter tweets
 
 ~~Currently waiting for [gohugoio/hugo Issue #5617](https://github.com/gohugoio/hugo/issues/5617) to be implemented.~~
 
