@@ -8,7 +8,11 @@ _build:
 ---
 - 学习
   + Bootstrap 5: [Get started with Bootstrap · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-  + JavaScript: [Learn JavaScript – Free JS Courses for Beginners](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+  + JavaScript:
+    + [Learn JavaScript – Free JS Courses for Beginners](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+    + [Eloquent JavaScript](https://eloquentjavascript.net/)
+    + [getify/You-Dont-Know-JS at 1st-ed](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+      + [Rendered by KBPsystem777](https://kbpsystem777.github.io/You-Dont-Know-JS/)
   + Generative art
 - 复习
   + BEM: [BEM — Introduction](https://getbem.com/introduction/)
