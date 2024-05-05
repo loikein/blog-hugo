@@ -69,7 +69,7 @@ description: "杂文。剧透。主要在思考五条悟和夏油杰。同人脑
 
 一些余谈：
 
-OP1 LOST IN PARADISE 里有一句 Tokyo prison, I'm going to relight your feelings。我当时想都没想就认为这是在说东京像监狱一样，结果后来看 [THE FIRST TAKE 演唱会前的小采访](https://www.youtube.com/watch?v=xUgBubOTBwA)里说这里是写的新冠 lockdown……嗯……
+ED1 LOST IN PARADISE 里有一句 Tokyo prison, I'm going to relight your feelings。我当时想都没想就认为这是在说东京像监狱一样，结果后来看 [THE FIRST TAKE 演唱会前的小采访](https://www.youtube.com/watch?v=xUgBubOTBwA)里说这里是写的新冠 lockdown……嗯……
 
 OP3 青のすみか，题目的官方英语翻译是 Where Our Blue Is。另外，歌唱者木谷龙也（同时也是词曲作者）[在 THE FIRST TAKE 上唱这首歌](https://www.youtube.com/watch?v=i0K40f-6mLs)的时候开场讲了一句：「失くしてしまった大切なもののために（为所有我失去的珍宝）」。
 
