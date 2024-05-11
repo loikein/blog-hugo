@@ -18,19 +18,31 @@ _build:
 
 {{< row >}}
 {{< col >}}
-人称：你／他／她，但我都不喜欢。中文人称太少了。  
+人称：they / 你 / 他 / 它。中文人称太少了，暂时没有完全满意的。
+
 大龄文青，喜欢唱歌、摄影和编程。  
 剪过自己以及另外三个以上的人的头发。
+
+常用自然语言：中文 > 日文 > 英文
+
+常用编程语言：Python, LaTeX, CSS, HTML  
+（这其中只有一个是真的编程语言，其余三个是宝可梦。）
 {{< /col >}}
 {{< col >}}
-My pronouns are: they / them / their.  
-An old school arty, sings, takes photos, and codes.  
+My pronouns are: they / them / their.
+
+An old school arty who sings, takes photos, and codes.  
 I have been more than three people's hair dresser, plus myself.
+
+Natural languages that I use: Mandarin > Japanese > English
+
+Programming languages that I use: Python, LaTeX, CSS, HTML  
+(Only one of which is an actual programming language and the rest are pokemon.)
 {{< /col >}}
 {{< /row >}}
 
 
-## 关于我做的事／What I do
+<!-- ## 关于我做的事／What I do
 
 {{< row >}}
 {{< col >}}
@@ -42,19 +54,21 @@ I have been more than three people's hair dresser, plus myself.
 I have chosen my current major out of interest, but actually it is the major that has chosen me.
 {{< /col >}}
 {{< /row >}}
-
+ -->
 
 ## 关于本站／What this site does
 
 {{< row >}}
 {{< col >}}
-自 2017 年起堆放我所有胡侃的地方。  
+自 2017 年起堆放我所有胡侃的地方。
+
 目前暂时无暇打理别的网站。
 <!-- 想看学业内容请走：[loikein's notes](https://notes.loikein.one/post/)  
 想网络斯托卡我请走：[loikein one](https://www.loikein.one/) -->
 {{< /col >}}
 {{< col >}}
-Stack of my babblings since 2017.  
+Stack of my babblings since 2017.
+
 All my other sites are halted temporarily.
 <!-- If you want academic contents, consider: [loikein's notes](https://notes.loikein.one/post/)  
 If you want to cyber-stalk me, consider: [loikein one](https://www.loikein.one/) -->
@@ -62,7 +76,7 @@ If you want to cyber-stalk me, consider: [loikein one](https://www.loikein.one/)
 {{< /row >}}
 
 
-## 初次见面的朋友可以从这里看起／Recommended posts for first-time visitors
+## 可能有用的博文／Rather useful posts
 
 本站现在没有任何分析工具，无从得知大家喜欢哪些文章，所以以下推荐均出自我的独断专行。
 
@@ -87,5 +101,6 @@ If you want to cyber-stalk me, consider: [loikein one](https://www.loikein.one/)
 - 凪冬的博客：[致幻想的你 – 一个囤积癖的乐园](https://soulbookstore.blog/)
 - Ein Verne 的博客：[Verne in GitHub](https://einverne.github.io/)
 - 酸橘汁腌鱼的博客：[Seviche.cc - Tech / Code / Random Life](https://seviche.cc/)
+- Celestial.y 的博客：[clsty 的网络空间站](https://celestialy.top)
 
 <!-- - 李总的博客：[稍后再说](https://woshiyulei.blogspot.com/) -->
