@@ -14,3 +14,7 @@
   --chroma-cyan:   #8be9fd;
   --chroma-pink:   #ff79c6;
 }
+
+.chroma * {
+  color: var(--chroma-fg);
+}

@@ -18,7 +18,7 @@ _build:
 
 Adapted from: [loikein/hugo-tufte/layouts/shortcodes/blockquote.html](https://github.com/loikein/hugo-tufte/blob/main/layouts/shortcodes/blockquote.html), original author: [shawnohare (Shawn O'Hare)](https://github.com/shawnohare).
 
-Including at least one of `author` or `cite` will begin the footnote, and `detail` is purely optional.
+Including at least one of `author` or `cite` will begin the footnote, and `detail` is optional.
 
 {{< quote
 author=`[Somebody famous](#)`

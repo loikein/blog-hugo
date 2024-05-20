@@ -189,6 +189,15 @@ body.night .post-body p del {
   /* vertical-align: top; */
 }
 
+.post-body .highlight>.chroma {
+  max-height: 256px;
+  overflow: auto;
+}
+
+.post-body .highlight>.chroma>.lntable {
+  overflow: visible;
+}
+
 .post-body details {
   margin-bottom: 1rem;
 }

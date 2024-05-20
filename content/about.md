@@ -96,7 +96,7 @@ If you want to cyber-stalk me, consider: [loikein one](https://www.loikein.one/)
 
 欢迎在任何平台与我有过三次以上友好互动的朋友添加友链，用您喜欢的方式联系我即可。
 
-- 瓜瓜的博客：[Let Melon Ripe - Eggi's blog](https://captaineggi.github.io/)
+- 瓜瓜的博客：[eggi's blog](https://captaineggi.github.io/)
 - 浅羽的博客：[櫻川家：：浅羽](https://asaba.sakuragawa.moe/)
 - 凪冬的博客：[致幻想的你 – 一个囤积癖的乐园](https://soulbookstore.blog/)
 - Ein Verne 的博客：[Verne in GitHub](https://einverne.github.io/)
